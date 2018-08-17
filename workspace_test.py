@@ -16,7 +16,6 @@ def getValue(slot):
 
 def utterHistory(da_name, turn):
     return true
-    
 
 def setTaskOutput(current_task, output_object, current_da=""):
     if Temp_Tesk == current_task:
